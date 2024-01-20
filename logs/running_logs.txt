@@ -1,0 +1,150 @@
+[2024-01-18 20:04:11,607: INFO: main: TextSummerizerLogger is running]
+[2024-01-18 20:04:38,022: INFO: main: TextSummerizerLogger is running]
+[2024-01-19 16:46:49,812: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:46:49,824: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:46:49,826: ERROR: 1083893206: 'tuple' object has no attribute 'artefacts_root']
+[2024-01-19 16:48:25,862: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:48:25,864: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:48:25,866: ERROR: 1083893206: 'tuple' object has no attribute 'arteficts_root']
+[2024-01-19 16:48:48,399: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:48:48,401: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:48:48,402: ERROR: 1083893206: 'tuple' object has no attribute 'artifacts_root']
+[2024-01-19 16:50:18,216: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:50:18,218: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:50:18,219: ERROR: 1083893206: 'tuple' object has no attribute 'artifacts_root']
+[2024-01-19 16:50:40,600: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:50:40,601: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:51:30,746: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:51:30,748: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:51:50,309: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:51:50,312: INFO: common: Read params.yaml successfully]
+[2024-01-19 16:55:12,190: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 16:55:12,193: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:39:50,159: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:39:50,161: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:40:30,200: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:40:30,202: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:42:02,366: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:42:17,255: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:44:51,672: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:44:51,675: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:46:36,628: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:46:36,630: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:46:54,044: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:46:54,045: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:47:27,278: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:47:51,088: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:48:45,551: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:48:45,553: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:48:45,555: INFO: common: artifacts created]
+[2024-01-19 17:49:42,199: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:49:42,201: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:50:10,909: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:50:10,911: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:51:16,970: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:51:47,107: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:53:06,500: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:53:06,502: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:57:02,075: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:57:02,077: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:57:35,479: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:57:35,480: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:58:13,017: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:58:13,020: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:59:59,051: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 17:59:59,053: INFO: common: Read params.yaml successfully]
+[2024-01-19 17:59:59,054: INFO: common: artifacts created]
+[2024-01-19 18:03:06,670: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 18:03:06,671: INFO: common: Read params.yaml successfully]
+[2024-01-19 18:03:06,673: INFO: common: artifacts created]
+[2024-01-19 18:04:18,260: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 18:04:18,262: INFO: common: Read params.yaml successfully]
+[2024-01-19 18:04:18,263: INFO: common: artifacts created]
+[2024-01-19 18:06:40,661: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 18:06:40,664: INFO: common: Read params.yaml successfully]
+[2024-01-19 18:06:40,665: INFO: common: artifacts created]
+[2024-01-19 18:07:54,766: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 18:07:54,768: INFO: common: Read params.yaml successfully]
+[2024-01-19 18:07:54,770: INFO: common: artifacts created]
+[2024-01-19 18:08:41,001: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 18:09:33,295: INFO: common: artifacts already exists]
+[2024-01-19 18:13:25,018: INFO: common: artifacts already exists]
+[2024-01-19 18:13:47,354: INFO: common: a created]
+[2024-01-19 18:13:47,354: INFO: common: r created]
+[2024-01-19 18:13:47,354: INFO: common: t created]
+[2024-01-19 18:13:47,354: INFO: common: i created]
+[2024-01-19 18:13:47,354: INFO: common: f created]
+[2024-01-19 18:13:47,354: INFO: common: a already exists]
+[2024-01-19 18:13:47,354: INFO: common: c created]
+[2024-01-19 18:13:47,354: INFO: common: t already exists]
+[2024-01-19 18:13:47,354: INFO: common: s created]
+[2024-01-19 18:15:14,706: INFO: common: artifacts already exists]
+[2024-01-19 18:19:48,750: INFO: common: artifacts already exists]
+[2024-01-19 18:19:55,954: INFO: common: artifacts already exists]
+[2024-01-19 18:21:29,341: INFO: common: artifacts already exists]
+[2024-01-19 18:22:36,541: INFO: common: Read config\config.yaml successfully]
+[2024-01-19 18:22:36,543: INFO: common: Read params.yaml successfully]
+[2024-01-19 18:22:36,544: INFO: common: artifacts already exists]
+[2024-01-19 18:22:36,545: INFO: common: artifacts/data_ingestion created]
+[2024-01-19 18:22:38,019: INFO: 2716565283: Downloaded artifacts/data_ingestion/data.zip to artifacts/data_ingestion/data.zip using Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 77BA:14F093:31DEB06:33E45C5:65AABDEA
+Accept-Ranges: bytes
+Date: Fri, 19 Jan 2024 18:22:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lon4268-LON
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705688557.071057,VS0,VE439
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9aed18fb43faa53eb471a5affe2fa7925be36029
+Expires: Fri, 19 Jan 2024 18:27:37 GMT
+Source-Age: 0
+
+]
+[2024-01-19 18:22:38,021: INFO: 2716565283: Size of artifacts/data_ingestion/data.zip is 7.54 MB]
+[2024-01-19 18:22:38,263: INFO: 2716565283: Unzipped artifacts/data_ingestion/data.zip to artifacts\data_ingestion]
+[2024-01-20 16:18:08,950: INFO: main: >>>>>>> Starting Data Ingestion stage <<<<<<<<]
+[2024-01-20 16:18:08,956: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 16:18:08,957: INFO: common: Read params.yaml successfully]
+[2024-01-20 16:18:08,958: INFO: common: artifacts created]
+[2024-01-20 16:18:08,959: INFO: common: artifacts/data_ingestion created]
+[2024-01-20 16:18:10,534: INFO: data_ingestion: Downloaded artifacts/data_ingestion/data.zip to artifacts/data_ingestion/data.zip using Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6EF6:26D3EA:3EF960:413F65:65ABF241
+Accept-Ranges: bytes
+Date: Sat, 20 Jan 2024 16:18:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lon420090-LON
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705767489.491977,VS0,VE543
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bd0fc217c5a1a48a7df8e4efde9f25bb68d24942
+Expires: Sat, 20 Jan 2024 16:23:10 GMT
+Source-Age: 0
+
+]
+[2024-01-20 16:18:10,534: INFO: data_ingestion: Size of artifacts/data_ingestion/data.zip is 7.54 MB]
+[2024-01-20 16:18:10,719: INFO: data_ingestion: Unzipped artifacts/data_ingestion/data.zip to artifacts\data_ingestion]
+[2024-01-20 16:18:10,719: INFO: main: >>>>>>> Finished Data Ingestion stage <<<<<<<<]
