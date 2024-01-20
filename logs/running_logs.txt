@@ -148,3 +148,79 @@ Source-Age: 0
 [2024-01-20 16:18:10,534: INFO: data_ingestion: Size of artifacts/data_ingestion/data.zip is 7.54 MB]
 [2024-01-20 16:18:10,719: INFO: data_ingestion: Unzipped artifacts/data_ingestion/data.zip to artifacts\data_ingestion]
 [2024-01-20 16:18:10,719: INFO: main: >>>>>>> Finished Data Ingestion stage <<<<<<<<]
+[2024-01-20 18:43:38,079: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:43:38,086: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:43:38,088: INFO: common: artifacts already exists]
+[2024-01-20 18:43:38,090: INFO: common: artifacts/data_validation created]
+[2024-01-20 18:45:32,490: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:45:32,492: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:45:32,493: INFO: common: artifacts/data_validation already exists]
+[2024-01-20 18:46:31,700: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:46:31,701: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:46:31,702: INFO: common: artifacts/data_validation already exists]
+[2024-01-20 18:46:31,704: ERROR: 734055221: File dataset_dict.json not found in required files]
+[2024-01-20 18:46:31,707: INFO: 734055221: File test found in required files]
+[2024-01-20 18:46:31,709: INFO: 734055221: File train found in required files]
+[2024-01-20 18:46:31,711: INFO: 734055221: File validation found in required files]
+[2024-01-20 18:46:31,712: INFO: 303413723: All files exist]
+[2024-01-20 18:49:24,171: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:49:24,173: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:49:24,175: INFO: common: artifacts/data_validation already exists]
+[2024-01-20 18:49:51,637: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:49:51,639: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:49:51,641: INFO: common: artifacts/data_validation already exists]
+[2024-01-20 18:50:13,517: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:50:13,518: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:50:13,521: INFO: common: artifacts/data_validation already exists]
+[2024-01-20 18:51:55,714: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 18:51:55,715: INFO: common: Read params.yaml successfully]
+[2024-01-20 18:51:55,716: INFO: common: artifacts/data_validation already exists]
+[2024-01-20 18:51:55,718: ERROR: 3947966481: File dataset_dict.json not found in required files]
+[2024-01-20 18:51:55,719: INFO: 3947966481: File test found in required files]
+[2024-01-20 18:51:55,721: INFO: 3947966481: File train found in required files]
+[2024-01-20 18:51:55,722: INFO: 3947966481: File validation found in required files]
+[2024-01-20 18:51:55,723: INFO: 303413723: All files exist]
+[2024-01-20 19:10:01,524: INFO: main: >>>>>>> Starting Data Ingestion stage <<<<<<<<]
+[2024-01-20 19:10:01,528: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 19:10:01,529: INFO: common: Read params.yaml successfully]
+[2024-01-20 19:10:01,530: INFO: common: artifacts created]
+[2024-01-20 19:10:01,530: INFO: common: artifacts/data_ingestion created]
+[2024-01-20 19:10:03,057: INFO: data_ingestion: Downloaded artifacts/data_ingestion/data.zip to artifacts/data_ingestion/data.zip using Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D80E:1E5CD7:2C1737:2D8F66:65AC1A88
+Accept-Ranges: bytes
+Date: Sat, 20 Jan 2024 19:10:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lon4283-LON
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705777802.667078,VS0,VE403
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e763bf07308966c5ad11899fb5683781fb49bb33
+Expires: Sat, 20 Jan 2024 19:15:02 GMT
+Source-Age: 0
+
+]
+[2024-01-20 19:10:03,057: INFO: data_ingestion: Size of artifacts/data_ingestion/data.zip is 7.54 MB]
+[2024-01-20 19:10:03,226: INFO: data_ingestion: Unzipped artifacts/data_ingestion/data.zip to artifacts\data_ingestion]
+[2024-01-20 19:10:03,227: INFO: main: >>>>>>> Finished Data Ingestion stage <<<<<<<<]
+[2024-01-20 19:10:03,227: INFO: main: >>>>>>> Starting Data Validation stage <<<<<<<<]
+[2024-01-20 19:10:03,228: INFO: common: Read config\config.yaml successfully]
+[2024-01-20 19:10:03,229: INFO: common: Read params.yaml successfully]
+[2024-01-20 19:10:03,229: INFO: common: artifacts already exists]
+[2024-01-20 19:10:03,230: INFO: common: artifacts/data_validation created]
+[2024-01-20 19:10:03,231: ERROR: data_validation: File dataset_dict.json not found in required files]
+[2024-01-20 19:10:03,231: INFO: data_validation: File test found in required files]
+[2024-01-20 19:10:03,231: INFO: data_validation: File train found in required files]
+[2024-01-20 19:10:03,232: INFO: data_validation: File validation found in required files]
+[2024-01-20 19:10:03,232: INFO: main: >>>>>>> Finished Data Validation stage <<<<<<<<]
