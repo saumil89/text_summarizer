@@ -18,3 +18,8 @@ data_transformation:
   tokenizer_name: google/pegasus-cnn_dailymail
   max_input_length: 1024
   max_output_length: 128
+
+model_trainer:
+  root_dir: artifacts/model_trainer
+  data_path: artifacts/data_transformation/samsum_dataset
+  model_ckpt: google/pegasus-cnn_dailymail
