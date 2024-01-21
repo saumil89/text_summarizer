@@ -15,3 +15,10 @@ class DataValidationConfig:
     file_status: str
     all_files_required: list
 
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+    tokenizer_name: Path
+    max_input_length: int
+    max_output_length: int
